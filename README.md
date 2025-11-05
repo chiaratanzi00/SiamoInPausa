@@ -3,6 +3,10 @@
 
 ---
 
+
+
+
+
 **Immagini dell' applicazione**
 
 ![Screenshot dell app](./images/Screenshot.png)
